@@ -2,13 +2,13 @@
 
 **Building brands that make the cut.** 🔪🥓
 
-Bacon Cutter Media is an independent tech and media holding based in Rotterdam. Operating a **House of Brands** strategy, we build, scale, and manage digital ecosystems—bridging the gap between engaged communities, interactive entertainment, and high-performance technology.
+Bacon Cutter Media is an independent tech and media holding based in Rotterdam. Operating a **House of Brands** strategy, we build, scale, and manage digital ecosystems bridging the gap between engaged communities, interactive entertainment, and high-performance technology.
 
 ---
 
 ### 🧬 Our Approach
 
-We don't do fluff; we build software with substance. Engineered for persistence and precision, our ventures focus on scalable architecture, autonomous AI workflows, and data-driven experiences. While others rush, we focus on reliable execution and leaving a lasting digital trail.
+We don't do fluff, we build software with substance. Engineered for persistence and precision, our ventures focus on scalable architecture, autonomous AI workflows, and data-driven experiences. While others rush, we focus on reliable execution and leaving a lasting digital trail.
 
 ---
 
