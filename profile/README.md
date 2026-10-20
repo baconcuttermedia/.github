@@ -1,63 +1,38 @@
-# 🐌 Snaily Games
+# Bacon Cutter Media
 
-**Move at your own pace. Play together. 🎮🐌**
+**Building brands that make the cut.** 🔪🥓
 
-Snaily Games is a creative powerhouse. Based in Rotterdam, we bridge the gap between passionate gaming communities and high-performance technology. We operate a **House of Brands** strategy, powering everything from viral browser games to deep-simulation mods.
-
----
-
-### 🧬 The Snaily Identity
-
-We are the creators of the **famous FiveM snail mascot**.
-
-Beyond the icon, we are builders. To us, the snail represents more than just a character; it stands for persistence and tracking. We are engineered for endurance, building software that leaves a reliable trail of data across the gaming sector. While others rush, we focus on the trail we leave behind.
+Bacon Cutter Media is an independent tech and media holding based in Rotterdam. Operating a **House of Brands** strategy, we build, scale, and manage digital ecosystems—bridging the gap between engaged communities, interactive entertainment, and high-performance technology.
 
 ---
 
-### 📌 Our Divisions
+### 🧬 Our Approach
 
-Snaily Games is organized into four strategic branches:
+We don't do fluff; we build software with substance. Engineered for persistence and precision, our ventures focus on scalable architecture, autonomous AI workflows, and data-driven experiences. While others rush, we focus on reliable execution and leaving a lasting digital trail.
 
-#### 🚀 Snaily Originals
-*The Masterpieces.*
-Home to our flagship titles and simulators. We build games that aren't just played they're lived.
+---
 
-#### 🕹️ Snaily Arcade
-*Instant Play. Infinite Fun.*
-We host thousands of AI optimized HTML5 experiences. Powered by our autonomous snAIrcade ingestion engine, providing instant gaming without downloads.
+### 📌 Core Pillars
 
-#### 🧪 Snaily Labs
-*The Engine Room.*
-Our specialized R&D wing focused on Game Development, custom Game Plugins, and the maintenance of the LVPDFR/NLPDFR legacy. This is where we stress-test new mechanics and AI-driven gameplay.
-
-#### 🤝 Snaily Community
-*The Proving Ground.*
-Our foundation of 7,000+ members. This is where we listen, learn, and maintain our roots in gaming culture. It serves as the ultimate testing environment for everything we build.
+* **🎮 Interactive & Gaming:** Developing simulation titles, instant-play web experiences, and thriving community platforms (home to the *Snaily* ecosystem).
+* **🧪 R&D & AI Labs:** Engineering autonomous community tooling, custom plugins, and AI-driven backend solutions.
+* **🌐 Digital Ventures:** Incubating and scaling specialized web utilities, on-demand platforms, and media brands.
 
 ---
 
 ### 🛠️ Tech Stack
 
-We utilize a hybrid environment of custom cloud architecture (GCP) and specialized gaming infrastructure (Zap).
+We rely on a modern cloud architecture designed for high availability and rapid deployment.
 
 | Domain | Technologies |
 | :--- | :--- |
-| **App Frontend** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| **Marketing Web** | ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white) ![Avada Framework](https://img.shields.io/badge/Wordpress-Avada-brightgreen) |
-| **Backend & Data** | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
-| **Infrastructure** | ![ZAP-Hosting](https://img.shields.io/badge/ZAP--Hosting-108a00?style=flat&logo=server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
-
----
-
-### 🚀 Capabilities
-
-* **Community-Led Development:** We build what our community actually needs.
-* **High-Performance Hosting:** Managing scalable game servers via ZAP-Hosting.
-* **Data-Driven Engineering:** Leveraging BigQuery and AI for deep analytics.
+| **Frontend & Mobile** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+| **Backend & Data** | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| **Cloud & Infra** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Web & CMS** | ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white) ![Avada](https://img.shields.io/badge/Avada-brightgreen?style=flat) |
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=teamsnaily&color=green&style=flat-square&label=TRAFFIC+TRACKING" alt="Team Snaily" />
+  <img src="https://komarev.com/ghpvc/?username=baconcuttermedia&color=black&style=flat-square&label=VIEWS" alt="Bacon Cutter Media" />
 </p>
